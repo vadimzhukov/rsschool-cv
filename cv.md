@@ -1,9 +1,7 @@
 # Vadim Zhukov
 ![picture of me](/Avatar.png "picture of me")
 
-Male, 36 years, born on 9 August 1985
-****
-## Contacts
+## My contacts (*not real*)
 - email: **vadim@gmail.com**
 - mobile: **+7 999-999-99-99**
 - reside in: **Moscow**
@@ -63,12 +61,13 @@ fetch('https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=mul
 You can see my pet-projects at [My GitHub](https://github.com/vadimzhukov/ "GitHub link") and play the [game](https://vadimzhukov.github.io/Let-s-quizzz/ "my quiz game") with your friends!
 
 ****
-## Experience
+## Experience & education
+### FrontEnd experience
 
 I'm learning web-development for 2 months, but my overla it experience in different positions if more than 16 years.
 
-****
-## Education
+
+### Education and cources
 
 - IT masters degree.
 - Сompleted JS learning course at learn.javascript.ru
