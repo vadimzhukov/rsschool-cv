@@ -1,5 +1,5 @@
 # Vadim Zhukov
-![picture of me](/Avatar.png "picture of me")
+![picture of me](/rsschool-cv/Avatar.png "picture of me")
 
 ## My contacts (*not real*)
 - email: **vadim@gmail.com**
