@@ -4,8 +4,10 @@
 ## My contacts (*not real*)
 - email: **vadim@gmail.com**
 - mobile: **+7 999-999-99-99**
+- discord: **Vadim Zhukov(@vadimzhukov)**
+- github: **@vadimzhukov**
 - reside in: **Moscow**
-- relocate: **ready**
+- relocation readiness: **Europe**
 ****
 ## About me
 I am accomplished and energetic Senior Project Manager with a solid history of achievement over 16+ years in Software development. Nowadays interested in frontend development.
@@ -13,7 +15,7 @@ I am accomplished and energetic Senior Project Manager with a solid history of a
 ## Skills
 - HTML5
 - CSS, SCSS, SASS
-- JS code
+- JS core
 
 - IT-project management
 - Analysis
@@ -58,7 +60,7 @@ fetch('https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=mul
 
 ### Working project
 
-You can see my pet-projects at [My GitHub](https://github.com/vadimzhukov/ "GitHub link") and play the [game](https://vadimzhukov.github.io/Let-s-quizzz/ "my quiz game") with your friends!
+You can see [this project at my GitHub](https://github.com/vadimzhukov/Let-s-quizzz "GitHub link") and play the [game](https://vadimzhukov.github.io/Let-s-quizzz/ "my quiz game") with your friends!
 
 ****
 ## Experience & education
