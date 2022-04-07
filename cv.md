@@ -8,19 +8,24 @@
 - github: **@vadimzhukov**
 - reside in: **Moscow**
 - relocation readiness: **Europe**
+
 ****
+
 ## About me
 I am accomplished and energetic Senior Project Manager with a solid history of achievement over 16+ years in Software development. Nowadays interested in frontend development.
 
 ## Skills
 - HTML5
-- CSS, SCSS, SASS
+- CSS3, SCSS, SASS
 - JS core
+- Git, GitHub
 
 - IT-project management
 - Analysis
 - Management consulting
+
 ****
+
 ## Projects
 
 ### Code sample
@@ -63,6 +68,7 @@ fetch('https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=mul
 You can see [this project at my GitHub](https://github.com/vadimzhukov/Let-s-quizzz "GitHub link") and play the [game](https://vadimzhukov.github.io/Let-s-quizzz/ "my quiz game") with your friends!
 
 ****
+
 ## Experience & education
 ### FrontEnd experience
 
@@ -75,6 +81,7 @@ I'm learning web-development for 2 months, but my overla it experience in differ
 - Сompleted JS learning course at learn.javascript.ru
 
 ****
+
 ## Languages
 
 - Russian - **native**
